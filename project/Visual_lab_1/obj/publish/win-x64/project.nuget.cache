@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fv7d3oJomkQMaZV7A1PFp7ZkvakeKhXT6sjnXqG36zNgaLAIYt7yrkuKY4FNy200cegPhVoibJlrPRtHv4FUYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boris\\Desktop\\Visual_lab_1\\Visual_lab_1\\Visual_lab_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boris\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.28\\microsoft.netcore.app.runtime.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\boris\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.28\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\boris\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.28\\microsoft.aspnetcore.app.runtime.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
